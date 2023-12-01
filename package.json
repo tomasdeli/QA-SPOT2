@@ -1,0 +1,21 @@
+{
+  "name": "spot2-automation",
+  "version": "1.0.0",
+  "description": "Demo de automatizacion de pruebas para Spot2",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "ats"
+  ],
+  "author": "Tomás De Lisio",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.4"
+  },
+  "dependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}

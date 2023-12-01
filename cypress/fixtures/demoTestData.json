@@ -1,0 +1,14 @@
+{
+    "testCase1": {
+        "email": "tech+qa@spot2.mx",
+        "password": "4gZahqdifFLFeGT",
+        "option": "Id",
+        "id": "19777"
+    },
+    "testCase2": {
+        "email": "tech+qa@spot2.mx",
+        "password": "4gZahqdifFLFeGT",
+        "minPrice": "1",
+        "maxPrice": "2"
+    }
+}
