@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "",
-    "cypress:open": "cypress open"
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
   },
   "keywords": [
     "ats"
